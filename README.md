@@ -385,19 +385,33 @@ Fun Fact:   "The most loyal creation by God is life's problems — they never le
 
 ---
 
-### ✍️ Random Dev Quote
+## 📈 Activity Graph
 
 <div align="center">
 
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VAIBHAVMISHRA2026&theme=tokyonight&hide_border=true&area=true" width="95%" alt="Activity Graph" />
 
 </div>
 
-### 🔝 Top Contributed Repo
+---
+
+## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
 
-  ![](https://github-contributor-stats.vercel.app/api?username=VAIBHAVMISHRA2026&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+  <p>I'm always open to discussing **web development, SaaS ideas, AI/ML projects, or potential collaborations!**</p>
+
+  <a href="https://vaibhavmishra-red.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-3B82F6?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:vaibhavmi2026@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/📧_Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/vaibhav-mishra-b063163b2" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
 </div>
 
@@ -410,5 +424,9 @@ Fun Fact:   "The most loyal creation by God is life's problems — they never le
   <br />
 
   **⭐ If you like my work, consider giving a star to my repos!**
+
+  <br />
+
+  <sub>Designed with ❤️ by **Vaibhav Mishra**</sub>
 
 </div>
