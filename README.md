@@ -1,3 +1,21 @@
+## 💫 Hi 👋, I'm VAIBHAV MISRHA
+
+<!--
+**VAIBHAVMISHRA2026/VAIBHAVMISHRA2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+EMAIL ME 👉 📧 vaibhavmi2026@gmail.com For collaboration / Project or anything else 😊😊
+
+MY PORTFOLIO 👉 https://vaibhavmishra-red.vercel.app
+
+- 🔭 I’m currently working on [grmanager.in](https://grmanager.in/)
+- 🌱 I’m currently learning python for AI/ML
+- 👯 I’m looking to collaborate on My new Upcoming project
+- 🤔 I’m looking for help with my work by soon
+- 💬 Ask me about I'm the b.tech student study in CE of 3rd year
+- 📫 How to reach me: my social media handal are given below.
+- 😄 Pronouns: tech_mishra
+- ⚡ Fun fact: the loyal creation create by the god is life problem. because, the never leave u at any cost 😂
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaibhav_mishra_2026) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-mishra-b063163b2) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/tech_mishra) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tech_mishra) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@mishra_vaibhav_2026) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhavmi2026@gmail.com) 
