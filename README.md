@@ -120,7 +120,7 @@ Fun Fact:   "The most loyal creation by God is life's problems — they never le
   <br /><br />
 
   <a href="https://grmanager.in" target="_blank">
-    <img src="https://api.apiflash.com/v1/urltoimage?access_key=demo&url=https://grmanager.in&width=1280&height=720&format=png&fresh=true" alt="GR Manager - School Management SaaS" width="90%" style="border-radius: 10px;" />
+    <img src="./assets/grmanager.png" alt="GR Manager - School Management SaaS" width="90%" style="border-radius: 10px;" />
   </a>
 
 </div>
